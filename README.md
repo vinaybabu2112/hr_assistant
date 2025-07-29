@@ -26,10 +26,10 @@ The system offers a range of functionalities to manage employees, leaves, and in
 
   * **Employee Management**:
       * Add new employees to the HRMS system.
-      * [cite\_start]Retrieve detailed employee information by name or ID[cite: 1].
-      * [cite\_start]Search for employees by name with fuzzy matching[cite: 1].
-      * [cite\_start]Identify an employee's manager[cite: 1].
-      * [cite\_start]List an employee's direct reports[cite: 1].
+      * Retrieve detailed employee information by name or ID.
+      * Search for employees by name with fuzzy matching.
+      * Identify an employee's manager.
+      * List an employee's direct reports
   * **Leave Management**:
       * Check an employee's current leave balance.
       * Apply for leave on specified dates.
