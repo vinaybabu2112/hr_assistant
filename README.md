@@ -131,7 +131,6 @@ The `server.py` file contains the main application logic and exposes the functio
 
 Contributions are welcome\! Please feel free to open issues or submit pull requests.
 
-## License
 
 
 ## 🙌 Acknowledgments
